@@ -1,0 +1,2 @@
+# cursor
+instructions for cursor
